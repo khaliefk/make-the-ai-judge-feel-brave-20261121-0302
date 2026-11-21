@@ -10,7 +10,7 @@ import { join } from "node:path";
 const text = [
   "Outside, the rain is at work on the roof, one drop at a time, in no hurry at all. A dog sleeps through it by the door, paws twitching after some dream rabbit.",
   "",
-  "The rain is brave the quiet way. It just keeps arriving, one drop at a time, and lets the roof take the noise.",
+  "The rain is brave the quiet way. It just keeps arriving, drop after drop, and lets the roof take the noise.",
 ].join("\n");
 
 const outDir = process.env.OUTPUT_DIR ?? "/output";
